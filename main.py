@@ -1,2 +1,2 @@
 import os
-os.system('python function_学号.py')
+os.system('python function_20231055.py')
